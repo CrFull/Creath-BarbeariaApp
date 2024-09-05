@@ -48,7 +48,7 @@ Siga os passos abaixo para baixar e executar o projeto localmente:
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/perpetuooo/desafio-creath/tree/main
+git clone https://github.com/CrFull/Creath-BarbeariaApp
 cd desafio-creath
 ```
 ### 2. Instalar Dependências
